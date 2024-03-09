@@ -1,0 +1,14 @@
+D:\C# Uygulamaları\Console_Applications\Application_1\bin\Debug\net8.0\Application_1.exe
+D:\C# Uygulamaları\Console_Applications\Application_1\bin\Debug\net8.0\Application_1.deps.json
+D:\C# Uygulamaları\Console_Applications\Application_1\bin\Debug\net8.0\Application_1.runtimeconfig.json
+D:\C# Uygulamaları\Console_Applications\Application_1\bin\Debug\net8.0\Application_1.dll
+D:\C# Uygulamaları\Console_Applications\Application_1\bin\Debug\net8.0\Application_1.pdb
+D:\C# Uygulamaları\Console_Applications\Application_1\obj\Debug\net8.0\Application_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Uygulamaları\Console_Applications\Application_1\obj\Debug\net8.0\Application_1.AssemblyInfoInputs.cache
+D:\C# Uygulamaları\Console_Applications\Application_1\obj\Debug\net8.0\Application_1.AssemblyInfo.cs
+D:\C# Uygulamaları\Console_Applications\Application_1\obj\Debug\net8.0\Application_1.csproj.CoreCompileInputs.cache
+D:\C# Uygulamaları\Console_Applications\Application_1\obj\Debug\net8.0\Application_1.dll
+D:\C# Uygulamaları\Console_Applications\Application_1\obj\Debug\net8.0\refint\Application_1.dll
+D:\C# Uygulamaları\Console_Applications\Application_1\obj\Debug\net8.0\Application_1.pdb
+D:\C# Uygulamaları\Console_Applications\Application_1\obj\Debug\net8.0\Application_1.genruntimeconfig.cache
+D:\C# Uygulamaları\Console_Applications\Application_1\obj\Debug\net8.0\ref\Application_1.dll
